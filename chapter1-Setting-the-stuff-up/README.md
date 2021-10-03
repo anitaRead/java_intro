@@ -20,13 +20,13 @@ PS: if the dialog box disappears, just click [here](http://www.oracle.com/techne
 
 ### To complete this challenge, you will need to:
 
-- [ ] Install the JDK (JDK 8u144)
-- [ ] ensure the installation is complete by running `java -version` without error
-- [ ] find and copy into `/exercises/hello_world.md` the java code for 'hello, world'
-- [ ] change the file extension to the correct one
-- [ ] change the file name to the correct one
-- [ ] compile it (what does this create?)
-- [ ] run it!
+- [X] Install the JDK (JDK 8u144)
+- [X] ensure the installation is complete by running `java -version` without error
+- [X] find and copy into `/exercises/hello_world.md` the java code for 'hello, world'
+- [X] change the file extension to the correct one
+- [X] change the file name to the correct one
+- [X] compile it (what does this create?)
+- [X] run it!
 
 ### Resources
 
