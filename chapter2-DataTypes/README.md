@@ -11,20 +11,20 @@
 ### To complete this challenge, you will need to:
 
 in `/exercises/Strings.java`
-- [ ] declare two string variables and store your names in them
-- [ ] Print a message that contains your variables* something like `"John and Jane are learning Java!"`
+- [X] declare two string variables and store your names in them
+- [X] Print a message that contains your variables* something like `"John and Jane are learning Java!"`
 
 \* *how would you do this in Ruby? How does Java do it?*
 
 in `/exercises/Numbers.java`
-- [ ] declare an integer variable with a value
-- [ ] declare a `double` variable with a value
-- [ ] store the result of adding the two together in a variable, and print it
+- [X] declare an integer variable with a value
+- [X] declare a `double` variable with a value
+- [X] store the result of adding the two together in a variable, and print it
 
 in `/exercises/Arrays.java`
-- [ ] create an array of strings and print it (what do you expect to see?)
-- [ ] create an array of numbers and print it
-- [ ] create an `ArrayList` of integers, add some integers to it and print it*
+- [X] create an array of strings and print it (what do you expect to see?)
+- [X] create an array of numbers and print it
+- [X] create an `ArrayList` of integers, add some integers to it and print it*
 
 \* *you'll need to import a library of code to help here.*
 
