@@ -10,9 +10,9 @@
 ## Instructions
 
 ### To complete this challenge, you will need to:
-- [ ] Use the JUnit github repo as your guide.
-- [ ] install the `.jar` (What's a jar?) that we'll use as a testing framework for Java called JUnit. You'll need the `.jar` of matchers too.
-- [ ] make sure that you save or move the jars to the `/exercises` folder where we'll do our work at the moment
+- [] Use the JUnit github repo as your guide.
+- [] install the `.jar` (What's a jar?) that we'll use as a testing framework for Java called JUnit. You'll need the `.jar` of matchers too.
+- [] make sure that you save or move the jars to the `/exercises` folder where we'll do our work at the moment
 - [ ] double check that it's working by compiling `Example.java` and `ExampleTest.java` and then running the test class. You should get no failures.
 
 *what does `-cp` mean? Run the command `java` to see what options we can pass it*

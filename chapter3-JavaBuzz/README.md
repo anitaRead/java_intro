@@ -12,10 +12,9 @@
 ### To complete this challenge, you will need to:
 
 in `/exercises/ControlFlow.java`
-- [ ] find a way to read in user input
-- [ ] write a method that will check if a number is odd or even (assume user only ever enters integers)
-- [ ] the result should be printed to the console eg:
-- [ ] *bonus:* use a while loop to continue checking until the user types in my special number 17
+- [X] find a way to read in user input
+- [X] write a method that will check if a number is odd or even (assume user only ever enters integers)
+- [X] the result should be printed to the console eg:
 
 ```sh
 5 # user enters a value
@@ -23,11 +22,11 @@ in `/exercises/ControlFlow.java`
 ```
 
 in `/exercises/LoopThroughArray.java`
-- [ ] loop through an integer array of the numbers 1-5 and print out each element
+- [X] loop through an integer array of the numbers 1-5 and print out each element
 
 in `/exercises/JavaBuzz.java`
-- [ ] write a program that will go through numbers 1-100 and print out "Java" if divisible by 3, "Buzz" if divisible by 5, "JavaBuzz" if divisible by 15
-- [ ] create, compile, and run it, and then high five each other!
+- [X] write a program that will go through numbers 1-100 and print out "Java" if divisible by 3, "Buzz" if divisible by 5, "JavaBuzz" if divisible by 15
+- [X] create, compile, and run it, and then high five each other!
 
 ### Resources
 
